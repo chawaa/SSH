@@ -6,7 +6,7 @@ export PATH
 #   Description: Install Shadowsocks-libev server for CentOS 6 or 7 #
 #   Author: 天工开物                                                 #
 #   公众号: 黑洞宅                                                   #
-#   网站: https://heidongwang.top                                   #
+#   Intro:  https://www.heidongwang.top                             #
 #===================================================================#
 
 # Current folder
@@ -152,8 +152,8 @@ print_info(){
     clear
     echo "#############################################################"
     echo "# Install Shadowsocks-libev server for CentOS 6 or 7        #"
-    echo "# Intro:  网站: https://heidongwang.top                     #"
-    echo "# Author: 天工开物                                          #"
+    echo "# Intro:  https://www.heidongwang.top                       #"
+    echo "# Author: 天工开物                                           #"
     echo "# 公众号: 黑洞宅                                             #"
     echo "#############################################################"
     echo
